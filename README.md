@@ -31,7 +31,7 @@ Then type the command like this:
 
 Example:
 -------
-```bash
+```ruby
 #--------------------
 # This is the comment
 def comment_code
