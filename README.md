@@ -3,9 +3,7 @@ DashedComments for Sublime Text 2
 
 This plugin inserts the comments block just before the current line with the same length by striping whitespaces. This is mainly used for ruby programmers.
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/XhfFiVtGMXhfiynNYZxdsCvP/email2vimalraj/DashedComments'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/XhfFiVtGMXhfiynNYZxdsCvP/email2vimalraj/DashedComments.svg' />
-</a>
+
 
 ## Requirement
   - RubyFormat plugin to format your ruby code after inserting the comment block since it will strip the blank spaces which may have introduced by the indentation settings.
